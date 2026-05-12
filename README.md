@@ -44,4 +44,4 @@ I bridge the gap between raw data and actionable insights. With a solid foundati
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdallah-ahmed-16aa50290/?skipRedirect=true) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdallahabdon99@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdallah.ahmed0932@gmail.com)
